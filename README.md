@@ -36,7 +36,7 @@ The goal is to build a model that can effectively classify whether a person is l
 
 **Requirements**
 
-- Python (version specification)
+- Python(pycharm or other)
 - Essential libraries (e.g., NumPy, pandas, scikit-learn)
 
 
