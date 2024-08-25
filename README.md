@@ -38,6 +38,11 @@ The goal is to build a model that can effectively classify whether a person is l
 
 - Python(pycharm or other)
 - Essential libraries (e.g., NumPy, pandas, scikit-learn)
+  
+**Getting Started**
+
+1. Clone this repository: `https://github.com/vir123-devf/rock-mine-prediction.git`
+2. Run the training script: `python train_model.py` (or similar)
 
 
 **Ethical Considerations**
